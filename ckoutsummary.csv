@@ -1,0 +1,4 @@
+Class,CBO,LCOM*,RFC,LOC,TopMethods
+com.GoodDemo.model.Order,2.00,0.72,8.00,1,N/A
+com.GoodDemo.app.Application,9.00,0.00,6.00,0,N/A
+com.GoodDemo.service.OrderService,4.00,0.22,5.00,0,N/A
